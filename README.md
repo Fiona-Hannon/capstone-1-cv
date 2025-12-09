@@ -1,1 +1,1 @@
-# capstone-1-cv
+# capstone project about creating and sharing my curriculum vitae 
